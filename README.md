@@ -1,0 +1,2 @@
+# eventbot
+This is a bot wrote using scrapy framework to web scrape the data from various hackathon and competition organizer like mlh, hackerearth etc. Also send a automated mail to available students in mailing list about the event. Created a job scheduler to the run the program continuously for the given time interval to check is there any new events is announced. If a new event is found it is updated immediately. 
